@@ -37,7 +37,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportingService.API", "src
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "src\Shared\ConsoleApp1\ConsoleApp1.csproj", "{EECA1245-050A-4DC7-9C2A-41E7C34A1A65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Application", "nArchitecture.Core\src\Core.Application\Core.Application.csproj", "{2C620ED8-566E-48A0-BBEB-6A1C83DFE649}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Translation.AmazonTranslate.DependencyInjection", "src\Shared\Core.Translation.AmazonTranslate.DependencyInjection\Core.Translation.AmazonTranslate.DependencyInjection.csproj", "{0986DA48-A1CE-4555-9255-50DF9C81C2F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,10 +73,10 @@ Global
 		{EECA1245-050A-4DC7-9C2A-41E7C34A1A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EECA1245-050A-4DC7-9C2A-41E7C34A1A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EECA1245-050A-4DC7-9C2A-41E7C34A1A65}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2C620ED8-566E-48A0-BBEB-6A1C83DFE649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2C620ED8-566E-48A0-BBEB-6A1C83DFE649}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2C620ED8-566E-48A0-BBEB-6A1C83DFE649}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2C620ED8-566E-48A0-BBEB-6A1C83DFE649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0986DA48-A1CE-4555-9255-50DF9C81C2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0986DA48-A1CE-4555-9255-50DF9C81C2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0986DA48-A1CE-4555-9255-50DF9C81C2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0986DA48-A1CE-4555-9255-50DF9C81C2F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -98,6 +98,6 @@ Global
 		{70F1CB88-0057-4376-B2F0-6586CD545A18} = {9D64552A-30E5-45BF-B538-7C6E9138AF3A}
 		{C1C23B5F-F597-448E-8DC1-6FBB2E5888CA} = {4F6AA114-3F1B-49FF-8DE7-6ADDE9F39086}
 		{EECA1245-050A-4DC7-9C2A-41E7C34A1A65} = {2639A71F-B86B-4A4D-BD20-F14641533F2D}
-		{2C620ED8-566E-48A0-BBEB-6A1C83DFE649} = {2639A71F-B86B-4A4D-BD20-F14641533F2D}
+		{0986DA48-A1CE-4555-9255-50DF9C81C2F6} = {2639A71F-B86B-4A4D-BD20-F14641533F2D}
 	EndGlobalSection
 EndGlobal
